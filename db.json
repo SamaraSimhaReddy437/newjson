@@ -1,0 +1,58 @@
+[
+    {
+      "title": "5 PRO",
+      "price": "30000",
+      "id": 1,
+      "catagory": "mobile",
+      "image": "https://www.apple.com/v/iphone-14/d/images/overview/design/gallery_xdr_blue__e1dgjo6d86eu_large_2x.jpg"
+    },
+    {
+      "title": "6 PRO",
+      "price": "20000",
+      "id": 2,
+      "catagory": "mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "7 PRO",
+      "price": "10000",
+      "id": 3,
+      "catagory": "mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "8 PRO",
+      "price": "20000",
+      "id": 4,
+      "catagory": "mobile",
+      "image": "https://media.mobex.in/media/catalog/product/o/n/oneplus_nord_ce_2_front.jpg?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "title": "Dell 1",
+      "price": "30000",
+      "id": 5,
+      "catagory": "laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Dell 2",
+      "price": "40000",
+      "id": 6,
+      "catagory": "laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Dell 3",
+      "price": "50000",
+      "id": 7,
+      "catagory": "laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    },
+    {
+      "title": "Dell 4",
+      "price": "40000",
+      "id": 8,
+      "catagory": "laptop",
+      "image": "https://rukminim1.flixcart.com/image/832/832/k9d3p8w0/computer/c/a/h/asus-na-laptop-original-imafr6cbfurgkspg.jpeg?q=70"
+    }
+  ]
